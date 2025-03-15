@@ -7,3 +7,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/sadiaoney/Digital-Marketing-Project-.git
 git push -u origin main
+https://zani.dmbaiust.xyz/
+https://zani.dmbaiust.xyz/
